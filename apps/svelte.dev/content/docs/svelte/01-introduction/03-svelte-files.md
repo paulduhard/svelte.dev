@@ -56,7 +56,7 @@ déclarées dans ce bloc peuvent être référencées ailleurs dans le composant
 </script>
 ```
 
-Vous pouvez `export`er des liaisons depuis ce bloc, elles deviendront des exports du module copmilé.
+Vous pouvez `export`er des liaisons depuis ce bloc, elles deviendront des exports du module compilé.
 Vous ne pouvez pas utiliser `export default`, puisque l'export par défaut est le composant lui-même.
 
 > [!NOTE] Si vous utilisez TypeScript et importez dans un fichier `ts` de tels exports depuis un
