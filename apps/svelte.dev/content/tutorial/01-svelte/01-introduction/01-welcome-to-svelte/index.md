@@ -13,13 +13,13 @@ avec `npx sv create`.
 
 Svelte est un outil permettant de construire des applications web. Comme toute autre framework
 d'interface, il vous permet de construire votre application _déclarativement_ à partir de composants
-combinant markup, styles, et logique.
+combinant markup, styles et logique.
 
 Ces composants sont _compilés_ en de petits modules JavaScript optimisés éliminant tout surcoût
 usuellement associé avec un framework d'interface quelconque.
 
 Vous pouvez construire votre application entière avec Svelte (par exemple, en utilisant un framework
-d'application comme [SvelteKit](/docs/kit), que ce tutoriel va présenter), ou l'introduire
+d'application comme [SvelteKit](/docs/kit), que ce tutoriel va présenter) ou l'introduire
 progressivement dans une codebase existante. Vous pouvez aussi déployer des composants en tant que
 paquets indépendants utilisables partout.
 
@@ -37,7 +37,7 @@ Ce tutoriel est divisé en quatre sections principales :
 
 Chaque section vous présentera un exercice conçu pour illustrer une fonctionnalité. Les exercices se
 basent sur les connaissances acquises dans les exercices précédents, il est donc recommandé de
-suivre ce tutoriel de début à la fin. Si besoin, vous pouvez naviguer entre les exercices grâce au
+suivre ce tutoriel du début à la fin. Si besoin, vous pouvez naviguer entre les exercices grâce au
 menu ci-dessus.
 
 Si vous êtes bloqué•e, vous pouvez cliquer sur le bouton `résoudre` dans le coin supérieur droit de
